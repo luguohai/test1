@@ -1,0 +1,12 @@
+set nu
+syntax on
+set nocompatible
+set completeopt=preview,menu
+set syntax=on
+set autoindent
+set cindent
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set noexpandtab
+set showmatch
